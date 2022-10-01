@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reshani2022
+- 👋 Hi, I’m Reshani
 - 👀 I’m interested in biostatistics and its intersections with AI and data science...
 
 
